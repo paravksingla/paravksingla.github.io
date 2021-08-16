@@ -10,7 +10,7 @@ Hi! You have reached the personal website of Parav K. Singla.
 
 This website is still under construction.
 
-To contact him, email him at paravksingla@gmail.com
+To contact him, email him at [paravksingla@gmail.com](mailto:paravksingla@gmail.com)
 
 ## Research Interest
 
