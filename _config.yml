@@ -1,0 +1,23 @@
+title: Parav K. Singla
+url: "https://paravksingla.com"
+baseurl: ""
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+footer_url: "mailto:paravksingla@gmail.com"
+footer_text: "Email Me"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/"
+ # - name: "CV"
+ #   link: "CV-Singla,Parav.pdf"
+ - name: "Contact"
+   link: "contact"
